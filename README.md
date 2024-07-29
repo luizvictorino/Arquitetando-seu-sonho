@@ -1,47 +1,28 @@
 # Desafio 1 - Resolução
 
-Link do site disponibilizado: []
+> i **NOTE:** Repositório desenvolvido durante aula na  [`PLATAFORMA DNC`](https://aluno.dnc.group/painel)
+
+<br>
+
+Link do site disponibilizado: [https://arquitetandoseusonho.netlify.app/](https://arquitetandoseusonho.netlify.app/)
 
 Link da planilha de registro de informação: [Planilha Landin Page](https://docs.google.com/spreadsheets/d/1Q9GdgtnKTBoYVb4L2tOoEHVcYibZYhEl7qEoKdH14mk/edit?usp=sharing)
 
+<br>
+
 # Arquitetando seu Sonho
 
-Bem-vindo ao repositório "Arquitetando seu Sonho"! Este projeto é dedicado a ajudar as pessoas a planejar e realizar seus sonhos de construção, fornecendo ferramentas e recursos para facilitar o processo.
+Bem-vindo ao repositório "Arquitetando seu Sonho"! Este projeto é um desafio de código da escola dnc.
 
 ## Visão Geral
 
-O objetivo deste projeto é fornecer uma plataforma onde os usuários possam visualizar, planejar e gerenciar seus projetos de construção. A plataforma oferece funcionalidades como:
-
-- Visualização de plantas baixas
-- Gerenciamento de orçamentos
-- Acompanhamento de cronogramas
-- Ferramentas de colaboração
-
-## Funcionalidades
-
-### Visualização de Plantas Baixas
-
-Os usuários podem carregar e visualizar plantas baixas em vários formatos. Ferramentas de zoom e anotação estão disponíveis para facilitar a análise e a colaboração.
-
-### Gerenciamento de Orçamentos
-
-Uma ferramenta integrada para ajudar os usuários a calcular e gerenciar os custos do projeto. Inclui funcionalidades para adicionar itens, definir preços e acompanhar despesas.
-
-### Acompanhamento de Cronogramas
-
-Permite que os usuários criem e acompanhem cronogramas detalhados para cada etapa do projeto. Inclui notificações e lembretes para garantir que os prazos sejam cumpridos.
-
-### Ferramentas de Colaboração
-
-Facilita a comunicação e a colaboração entre todos os membros do projeto. Inclui recursos de chat, compartilhamento de documentos e histórico de alterações.
+O objetivo deste projeto é fornecer uma landing page como portifólio para um empresas de arquitetura.
 
 ## Tecnologias Utilizadas
 
-- **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Node.js, Express
-- **Banco de Dados:** MongoDB
-- **Ferramentas de Construção:** Webpack, Babel
-- **Controle de Versão:** Git
+- **Front-end:** HTML, CSS
+- **Formulário:** sheetmonkey.io
+
 
 ## Como Começar
 
@@ -73,10 +54,23 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 
 - **Design Responsivo:** Implementar um design que se adapte a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 
-## Licença
+## 👨‍💻 Expert
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/133029852?v=4"
+    />
+    <p>&nbsp&nbsp&nbspLuiz Victorino<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/luizvictorino">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luiz-victorino/">LinkedIn</a>
+
+&nbsp;&nbsp;
 
 ---
 
-Se precisar de mais alguma coisa ou quiser personalizar algum trecho, me avise!
+> Este **README** agora inclui a instrução específica para acessar a Landing Page diretamente, além de todos os outros detalhes relevantes.
